@@ -1,0 +1,8 @@
+name: BasicCommands
+main: com.bukkit.happo2000.BasicCommands.BasicCommands
+version: 0.1
+commands:
+    basic:
+        description: Displays a message
+        usage: /<command>
+    
